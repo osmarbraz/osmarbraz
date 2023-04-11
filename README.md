@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-## Ferramentas e Tecnologias
+## Tools and technologies
 <!-- Link para os icones: https://devicon.dev/ -->
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> 
