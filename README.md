@@ -25,6 +25,8 @@ Here are some ideas to get you started:
         
 </p>
 
+&nbsp;
+
 ## Tools and technologies
 <!-- Link para os icones: https://devicon.dev/ -->
 <p>
