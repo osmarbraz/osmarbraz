@@ -22,8 +22,10 @@ Here are some ideas to get you started:
     <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=osmarbraz&show_icons=true&locale=en&theme=dark" alt="osmarbraz" />
     &nbsp;
     <img align="rigth" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmarbraz&show_icons=true&locale=en&layout=compact&langs_count=7&theme=dark" alt="osmarbraz" />
-    
+        
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmarbraz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
 
