@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Osmar de Oliveira Braz Junior
 
-🌱 I’m currently learning Pascal, C, C++, Java, Dart, Python, ...
+🌱 I’m currently learning Cobol, Basic, Pascal, C, C++, Java, Javascript, Dart, Python, ...
 
 <!--
 **osmarbraz/osmarbraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
